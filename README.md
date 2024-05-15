@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sarthak Shah</h1>
-<h3 align="center">A passionate IT aspirant from  <img style="width:7%;height:7%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="INDIA">"</h3>
+<h3 align="center">A passionate IT aspirant from  <img style="width:7%;height:7%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="INDIA"></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SarthakShah-14i&label=Profile%20views&color=0e75b6&style=flat" alt="SarthakShah-14" /> </p>
 

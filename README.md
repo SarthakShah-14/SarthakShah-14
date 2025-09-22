@@ -37,8 +37,12 @@ Exploring emerging trends in the tech industry and diving deep into **AI, Data S
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <a href="https://github.com/SarthakShah-14"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SarthakShah-14&langs_count=10&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%"/></a>
-  <a href="https://github.com/SarthakShah-14"><img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SarthakShah-14&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%"/></a>
+  <a href="https://github.com/SarthakShah-14">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakShah-14&langs_count=10&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%"/>
+  </a>
+  <a href="https://github.com/SarthakShah-14">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SarthakShah-14&show_icons=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49.5%"/>
+  </a>
 </p>
+
